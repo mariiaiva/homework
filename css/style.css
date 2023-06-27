@@ -1,3 +1,6 @@
+body{
+    background-image: url(https://celes.club/uploads/posts/2022-11/1667322990_1-celes-club-p-fon-dlya-prezentatsii-minimalizm-svetlii-k-1.jpg);
+}
 .logo{
     width: 80px;
     height: 80px;
@@ -5,4 +8,34 @@
 }
 #nav-mobile{
     margin-right: 60px;
+}
+.card{
+    margin: 0 auto;
+}
+.content{
+    width: 900px;
+    margin: 0 auto;
+}
+span, a{
+    color: gray;
+}
+.contact{
+   padding: 20px;
+    background-color: gainsboro;
+}
+h4{
+    text-align: center;
+}
+i{
+    margin-left: 800px;
+}
+.email{
+    width: 800px;
+    margin: 0 auto;
+}
+.btn{
+  background-color: white;
+  color: black;
+    width: 150px;
+    margin-left: 450px;
 }
